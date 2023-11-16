@@ -1,7 +1,7 @@
 {
-	"name": "fmentor-single-price-flex",
+	"name": "fmentor-single-price-js-procedural",
 	"version": "1.0.0",
-	"description": "single price grid component using display flex",
+	"description": "single price grid component using js procedural",
 	"main": "index.js",
 	"scripts": {
 		"dev": "sass --watch scss/main.scss css/main.css",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-single-price-flex.git"
+		"url": "git+https://github.com/al3xback/fmentor-single-price-js-procedural.git"
 	},
 	"author": "alex <al3xback@gmail.com>",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-single-price-flex/issues"
+		"url": "https://github.com/al3xback/fmentor-single-price-js-procedural/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-single-price-flex#readme",
+	"homepage": "https://github.com/al3xback/fmentor-single-price-js-procedural#readme",
 	"devDependencies": {
 		"prettier": "^2.8.8",
 		"sass": "^1.62.1"
