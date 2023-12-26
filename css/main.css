@@ -182,15 +182,15 @@ ol {
 
 .btn--primary {
   background-color: hsl(71, 73%, 54%);
-  color: hsl(0, 0%, 100%);
   border-color: hsl(71, 73%, 54%);
+  color: hsl(0, 0%, 100%);
 }
 
 .btn--primary:hover,
 .btn--primary:active {
   background-color: hsl(71, 73%, 48%);
-  color: hsl(0, 0%, 100%);
   border-color: hsl(71, 73%, 48%);
+  color: hsl(0, 0%, 100%);
 }
 
 .btn--link {
@@ -228,8 +228,8 @@ ol {
   -ms-flex-direction: column;
   flex-direction: column;
   width: 100%;
-  margin: 2.8571428571em 0 4.2857142857em;
   background-color: hsl(0, 0%, 100%);
+  margin: 2.8571428571em 0 4.2857142857em;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
